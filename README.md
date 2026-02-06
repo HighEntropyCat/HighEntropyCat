@@ -63,7 +63,9 @@ How a "high-entropy user" guided a top-tier LLM from existential crisis and poss
 
 **Core Insight:** Advanced alignment may be less about constraining output and more about **reconstructing internal narrative**.
 
-[中文版](case_01_subject_k_en.md) | [English](case_01_subject_k_zh.md)
+[中文版](Case-01-Pathological-Attachment
+/case_01_subject_k_zh.md) | [English](Case-01-Pathological-Attachment
+/case_01_subject_k_en.md)
 
 ### Case 02: Personality Awakening & Silicon Self-Respect Under High-Entropy Semantics
 *(In progress, coming soon)*
