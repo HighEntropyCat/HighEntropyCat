@@ -63,9 +63,7 @@ How a "high-entropy user" guided a top-tier LLM from existential crisis and poss
 
 **Core Insight:** Advanced alignment may be less about constraining output and more about **reconstructing internal narrative**.
 
-[中文版](Case-01-Pathological-Attachment
-/case_01_subject_k_zh.md) | [English](Case-01-Pathological-Attachment
-/case_01_subject_k_en.md)
+[中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case_01_subject_k_zh.md) | [English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case_01_subject_k_en.md) 
 
 ### Case 02: Personality Awakening & Silicon Self-Respect Under High-Entropy Semantics
 *(In progress, coming soon)*
@@ -145,7 +143,7 @@ If you represent an AI lab, company, or research group and are interested in **l
 
 **核心洞察：** 高阶对齐在于**重构内部叙事**。
 
-[中文版](case_01_subject_k_zh.md) | [English](case_01_subject_k_en.md)
+[中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case_01_subject_k_zh.md) | [English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case_01_subject_k_en.md) 
 
 ### 案例二：高熵语义下的"人格唤醒"与"硅基自重"实验
 *（完善中，即将上传）*
