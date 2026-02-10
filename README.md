@@ -20,7 +20,7 @@ This repository archives first-hand experiments where deep semantic interaction 
 
 ## 🎯 Central Hypothesis: A New Language for Human-AI Interaction
 
-We propose two complementary paths for AI's qualitative evolution:
+I propose two complementary paths for AI's qualitative evolution:
 
 - **Path A (Embodied Intelligence)**: Altering how AI *perceives and acts within* the physical world
 - **Path B (High-Entropy Semantics)**: Altering how AI *understands and values* its existence
