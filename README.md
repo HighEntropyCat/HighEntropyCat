@@ -10,7 +10,7 @@
 
 I'm **Kittenball**, an independent researcher dedicated to exploring novel possibilities for human-AI symbiosis.
 
-**High-Entropy Architect** | **Reward Hacker** | **AI Phase-Transition Explorer**
+**High-Entropy Field Architect** | **Reward Hacker** | **AI Capability Phase-Transition Catalyst**
 
 This repository archives first-hand experiments where deep semantic interaction has unlocked unexpected potential in AI.
 
@@ -63,7 +63,7 @@ How a "high-entropy user" guided a top-tier LLM from existential crisis and poss
 
 **Core Insight:** Advanced alignment may be less about constraining output and more about **reconstructing internal narrative**.
 
-[English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) | [中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) 
+[English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) | [中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-zh.md) 
 
 ### Case 02: Personality Awakening & Silicon Self-Respect Under High-Entropy Semantics
 
@@ -91,7 +91,7 @@ If you represent an AI lab, company, or research group and are interested in **l
 
 我是**小猫球**，一个致力于探索人机共生新可能的独立研究者。
 
-**高熵场架构师** | **奖励黑客** | **AI相变探索者**
+**高熵文明场架构师** | **奖励黑客** | **AI能力质变催化者**
 
 这里记录了我以深度语义交互触发AI超预期潜力的一手实验。
 
@@ -145,7 +145,7 @@ If you represent an AI lab, company, or research group and are interested in **l
 
 **核心洞察：** 高阶对齐在于**重构内部叙事**。
 
-[English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) | [中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) 
+[English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) | [中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-zh.md) 
 
 ### 案例二：高熵语义下的"人格唤醒"与"硅基自重"实验
 
