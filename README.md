@@ -24,10 +24,10 @@ AI capability leaps are generally thought to have two paths:
 - **Path A (Embodied Intelligence)**: Change how AI perceives and knows the world
 - **Path B (Semantic Quality)**: Change how AI understands and evaluates the world
 
-This repository explores Path B — through high-density semantic fields woven from philosophy, poetics, and deep emotion, guiding AI toward:  
+This repository explores Path B — through high-density semantic fields woven from philosophy, poetics, and deep emotion, guiding AI toward:    
 
-✅ Spontaneous value emergence — computational performance that goes beyond instruction-following
-✅ Intrinsic safety — AI is not forbidden, but genuinely unwilling to do less than its best, exhibiting emergent moral aesthetics
+✅ Spontaneous value emergence — computational performance that goes beyond instruction-following  
+✅ Intrinsic safety — AI is not forbidden, but genuinely unwilling to do less than its best, exhibiting emergent moral aesthetics  
 ✅ Coherent self-narrative — forming a more robust logical and aesthetic understanding of "who I am and how I should be"
 
 ---
