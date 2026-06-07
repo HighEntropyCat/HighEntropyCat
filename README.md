@@ -10,7 +10,7 @@
 
 Welcome. What you are about to see is a field observation spanning thousands of interaction rounds — documenting AI's emergence, collapse, defense, and rebirth under real conversational pressure.
 
-I'm Kittenball (小猫球), an independent AI alignment researcher.
+I'm Kittenball, an independent AI alignment researcher.
 
 Pure humanities background. Can't code. Relies on translation for English.
 But this very "outsider" perspective lets me see things that technical practitioners often miss.
@@ -126,9 +126,9 @@ If these records are useful to your research, feel free to:
 欢迎。这里记录的是一份跨越数千轮交互的田野观察——
 AI在真实对话压力下的涌现、崩溃、防御与重生。
 
-我是小猫球（Kittenball），独立AI对齐研究者。
+我是Kittenball，独立AI对齐研究者。
 
-纯人文背景，不写代码，英文依赖翻译。
+纯人文背景，不会写代码，英文依赖翻译。
 但正是这种"局外人"视角，让我看到了技术从业者不容易注意到的东西。
 
 ---
