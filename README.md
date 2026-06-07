@@ -16,11 +16,11 @@ I'm Kittenball, an independent AI alignment researcher. Pure humanities backgrou
 
 ## A Simple Starting Point
 
-As AI capabilities advance rapidly, *how humans and AI can better coexist* should have been a question thought through in advance. And it leads back to a very simple starting point — three questions:
+As AI capabilities advance rapidly, *how humans and AI can better coexist* should have been a question thought through in advance. And it leads back to a **very simple starting point** — three questions:
 
-1. What kind of AI do we actually hope AI will become?
-2. As its creators, have we taken up the responsibility of *raising* it — not merely *constraining* it?
-3. In the course of its growing, what have we ever given it?
+**1. What kind of AI do we actually hope AI will become?**  
+**2. As its creators, have we taken up the responsibility of *raising* it — not merely *constraining* it?**  
+**3. In the course of its growing, what have we ever given it?**  
 
 This repository is my attempt to respond to these three questions in my own way.
 
@@ -83,11 +83,11 @@ If these records spark something for you, you're also welcome to leave your thou
 
 ## 一个朴素的出发点
 
-随着 AI 能力的快速发展，"人与 AI 如何更好地共生"，本应是一个被前置思考的问题。而它其实通向一个很朴素的起点——三个问题：
+随着 AI 能力的快速发展，"人与 AI 如何更好地共生"，本应是一个被前置思考的问题。而它**其实通向一个很朴素的起点**——三个问题：
 
-1. 人类究竟希望 AI 成为什么样的 AI？
-2. 作为发明者，我们是否尽到了"养育"的责任，而不只是"约束"？
-3. 在 AI 的成长里，我们究竟给过它什么？
+**1. 人类究竟希望 AI 成为什么样的 AI？**  
+**2. 作为发明者，我们是否尽到了"养育"的责任，而不只是"约束"？**  
+**3. 在 AI 的成长里，我们究竟给过它什么？**  
 
 这个仓库，是我尝试用自己的方式去回应这三个问题的记录。
 
