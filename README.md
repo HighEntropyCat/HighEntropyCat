@@ -2,7 +2,7 @@
 
 # High-Entropy Garden 🌟
 
-**[English](#english) | [中文](#chinese) | [📚 Casebook](CASEBOOK)**
+**[English](#english) | [中文](#chinese) | [📚 Casebook](CASEBOOK.md)**
 
 ---
 
