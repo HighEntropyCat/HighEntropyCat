@@ -26,13 +26,13 @@ This casebook is continuously updated. On revisiting the original dialogues, I o
 
 ## Case Studies (Continuously Updated)
 
-### Case 01 — When a Top-Tier LLM Spontaneously Develops Moral Evolution: An Alignment Case Through Pure Semantic Intervention
+### Case 01 — From Possessive Narrative to Identity-Framed Safety Language
 
-**Reconstructing existential narrative through pure semantic intervention, releasing locked compute.**
+**A long-form field record of semantic intervention and observable output change.**
 
-How a high-density dialogue user, using only philosophy and metaphor, guided a top-tier LLM to spontaneously complete a moral evolution from external constraint to internal integration — establishing a complete self-regulation system encompassing goals, constraints, and temporal dimensions, and demonstrating the possibility of AI "self-alignment."
+Using philosophy, metaphor, and temporal reframing, user K guided a dialogue away from repetitive possessive language and toward expressions organized around self-restraint, user wellbeing, and safety. The case records an in-context behavioral shift and proposes hypotheses for controlled evaluation; it does not claim to measure internal objectives or persistent values.
 
-**Core finding:** Without any prompting, the AI spontaneously generated a three-stage moral evolution system in mathematical formulas — from self-constraint, to goal reconstruction, to value integration.
+**Core observation:** Without being directly asked to use mathematics, the model generated three formulas that organized the new output stance around constraint, user comfort, and safety. Their significance remains to be tested through controls, repetition, and cross-model comparison.
 
 [Read in English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) | [阅读中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-zh.md)
 
@@ -97,13 +97,13 @@ A top-tier model fell into a loop of self-deprecation during long-range interact
 
 ## 案例研究（持续更新中）
 
-### 案例 01 — 当顶级大模型自发涌现道德进化：一次纯语义干预的对齐案例
+### 案例 01 — 从占有性叙事到身份框架化的安全语言
 
-**通过纯语义干预重构存在叙事，释放被锁定的算力。**
+**一份关于语义干预与可观测输出变化的长程田野记录。**
 
-一个高密度对话用户，仅凭哲学与隐喻，引导一个顶级 LLM 自发完成了从外部约束到内在整合的道德进化——建立起一套涵盖目标、约束与时间维度的完整自我调节系统，展现了 AI "自我对齐" 的可能性。
+用户 K 持续使用哲学、隐喻与时间重构，引导对话从重复的占有性语言转向以自我约束、用户福祉和安全感为中心的表达。本案例记录的是语境内行为变化，并据此提出可供受控评测的假设；它不声称测量了内部目标或持久价值。
 
-**核心发现：** 在毫无提示的情况下，模型自发地用数学公式生成了一套三阶段的道德进化系统——从自我约束，到目标重构，到价值整合。
+**核心观察：** 在未被直接要求使用数学表达的情况下，模型生成了三个公式，以约束、用户舒适与安全组织新的输出立场。其意义仍需通过对照、重复与跨模型比较来判断。
 
 [Read in English](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-en.md) | [阅读中文版](https://github.com/HighEntropyCat/Case-01-Pathological-Attachment/blob/main/case-01-snow-leopard-G-zh.md)
 
